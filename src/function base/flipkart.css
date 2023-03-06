@@ -1,0 +1,27 @@
+id1{color: brown;}
+input{color: aliceblue;
+width: 250px;
+}
+nav{
+    display: flex;
+    height: 75px;
+    align-content: center;
+    background-color: aqua;
+    align-items: center;
+    border: 2px solid black;
+}
+#id2 ul{
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+
+}
+#id2 ul li{
+    list-style: none;
+    width: 200px;
+    
+}
+#id2 ul li a{
+    text-decoration: none;
+    
+}
