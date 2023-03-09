@@ -1,0 +1,164 @@
+[
+    {
+        "StudentName" :"Pragati",
+        "id":"AS12G",
+        "Branch":"CS",
+        "YOP" :"2020",
+        "Rollno":"1",
+        "Studentphoto":"https://wallpapercave.com/wp/wp6396837.jpg"
+    },
+    {
+        "StudentName" :"Rashmi",
+        "id":"AS13G",
+        "Branch":"Bsc",
+        "YOP" :"2020",
+        "Rollno":"2",
+        "Studentphoto":"https://i.pinimg.com/originals/51/fe/18/51fe180cc453fccbf05652ad051b4803.jpg"
+    },
+    {
+        "StudentName" :"Raj",
+        "id":"AS12G",
+        "Branch":"Bca",
+        "YOP" :"2020",
+        "Rollno":"3",
+        "Studentphoto":"https://www.masala.com/cloud/2021/07/28/TBabHIPL-Shah-Rukh-Khan-Baadhshah-Of-Bollywood.jpg-1.jpg"
+    },
+    {
+        "StudentName" :"Bhagya",
+        "id":"AS12G",
+        "Branch":"Mca",
+        "YOP" :"2020",
+        "Rollno":"4",
+        "Studentphoto":"https://www.odishaviews.com/wp-content/uploads/2023/01/Samantha-Ruth-Prabhu-jpg.webp"
+    },
+    {
+        "StudentName" :"lakshmi",
+        "id":"AS12G",
+        "Branch":"BCOm",
+        "YOP" :"2020",
+        "Rollno":"5",
+        "Studentphoto":"https://stylesatlife.com/wp-content/uploads/2021/06/Beautiful-Alia-Bhatt.jpg.webp"
+    },
+    {
+        "StudentName" :"Yoga",
+        "id":"AS12G",
+        "Branch":"Btech",
+       "YOP" :"2020",
+       "Rollno":"6",
+       "Studentphoto":"https://cdn.tollywood.net/wp-content/uploads/2022/11/This-hero-is-on-the-board-to-play-lead-role-in-HIT-3-jpg.webp"
+    },
+    {
+        "StudentName" :"vidyasagara",
+        "id":"AS12G",
+        "Branch":"BE",
+        "YOP" :"2020",
+        "Rollno":"7",
+        "Studentphoto":"https://www.teahub.io/photos/full/206-2061617_hero-wallpaper-hd-download-allu-arjun-south-actor.jpg"
+    },
+    {
+        "StudentName" :"Sachin",
+        "id":"AS12G",
+        "Branch":"Arts",
+        "YOP" :"2020",
+        "Rollno":"8",
+        "Studentphoto":"https://content.tupaki.com//twdata/2017/0717/news/Who-is-Nani-s-favourite-hero--1499774737-149.jpg"
+    },
+    {
+        "StudentName" :"Gopal",
+        "id":"AS12G",
+        "Branch":"BBM",
+        "YOP" :"2020",
+        "Rollno":"9",
+        "Studentphoto":"https://images.bewakoof.com/image/content/2022/09/20141743/image-29.png"
+    },
+    {
+        "StudentName" :"Alok",
+        "id":"AS12G",
+        "Branch":"MBA",
+        "YOP" :"2020",
+        "Rollno":"10",
+        "Studentphoto":"https://im.rediff.com/movies/2015/nov/10akhil1.jpg"
+    },
+    {
+        "StudentName" :"Pushpa",
+        "id":"AS12G",
+        "Branch":"BIO",
+        "YOP" :"2020",
+        "Rollno":"11",
+        "Studentphoto":"https://menglish.sakshi.com/sites/default/files/styles/storypage_main/public/gallery_images/2020/09/21/6-1600691786.jpg?itok=izIAzC8h"
+    },
+    {
+        "StudentName" :"Chitra",
+        "id":"AS12G",
+        "Branch":"Civil",
+        "YOP" :"2020",
+        "Rollno":"12",
+        "Studentphoto":"https://cdn.tollywood.net/wp-content/uploads/2022/07/A-talented-heroine-rejected-it-and-Sai-Pallavi-grabbed-it.jpg"
+    },
+    {
+        "StudentName" :"Manjunath",
+        "id":"AS12G",
+        "Branch":"MEch",
+        "YOP" :"2020",
+        "Rollno":"13",
+        "Studentphoto":"https://www.chitramala.in/wp-content/uploads/2015/05/maheshbabu-handsome-hero.jpg"
+    },
+    {
+        "StudentName" :"Diksha",
+        "id":"AS12G",
+        "Branch":"IS",
+        "YOP" :"2020",
+        "Rollno":"14",
+        "Studentphoto":"https://biopick.in/wp-content/uploads/2021/03/Malavika-Nair-1.jpg"
+    },
+    {
+        "StudentName" :"Saichetan",
+        "id":"AS12G",
+        "Branch":"CS",
+        "YOP" :"2020",
+        "Rollno":"15",
+        "Studentphoto":"https://www.cinejosh.com/newsimg/newsmainimg/suriya-a-hero-off-and-on-screen_b_0504160511.jpg"
+    },
+    {
+        "StudentName" :"Joyti",
+        "id":"AS12G",
+        "Branch":"IPS",
+        "YOP" :"2020",
+        "Rollno":"16",
+        "Studentphoto":"https://alchetron.com/cdn/malavika-nair-actress-born-1999-0cb8dba4-a7a1-4bd2-a0ac-28d494962b7-resize-750.jpeg"
+    },
+    {
+        "StudentName" :"Pravina",
+        "id":"AS12G",
+        "Branch":"Physics",
+        "YOP" :"2020",
+        "Rollno":"17",
+        "Studentphoto":"https://www.mrdustbin.com/wp-content/uploads/2020/04/%E0%A4%A8%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%A8-Nithiin.jpg"
+    },
+    {
+        "StudentName" :"Prabhavati",
+        "id":"AS12G",
+        "Branch":"Java",
+        "YOP" :"2020",
+        "Rollno":"18",
+        "Studentphoto":"https://e1.pxfuel.com/desktop-wallpaper/47/64/desktop-wallpaper-hero-heroine-ke-south-hero-and-heroine.jpg"
+    },
+    {
+        "StudentName" :"Pranav",
+        "id":"AS12G",
+        "Branch":"MERN",
+        "YOP" :"2020",
+        "Rollno":"19",
+        "Studentphoto":"https://cdn4.sharechat.com/herostylephoto_2630c019_1612754060148_sc_cmprsd_40.jpg"
+    },
+    {
+        "StudentName" :"Vishal",
+        "id":"AS12G",
+        "Branch":"PHYTON",
+        "YOP" :"2020",
+        "Rollno":"20",
+        "Studentphoto":"https://www.mrdustbin.com/en/wp-content/uploads/2021/03/Karthi-Sivakumar.jpg"
+    }
+   
+
+]
